@@ -1,10 +1,10 @@
 Choose the DevDDA organization, this may be the only one depending if you are member of other organizations.
 
-![img.png](/.attachments/SelectOrg.png =200x)
+![img.png](/assets/SelectOrg.png)
 
 Next select **New project**.
 
-![img.png](/.attachments/NewProject.png)
+![img.png](/assets/NewProject.png)
 
 Once selected a side dialogue will appear. Enter the name of the project (required). Enter a brief description, even though this is optional, to give an indication to other team members as to the nature of the project.
 
@@ -15,8 +15,10 @@ Once selected a side dialogue will appear. Enter the name of the project (requir
 >> [Click here for further information regarding work item processes.](https://docs.microsoft.com/en-us/azure/devops/boards/work-items/guidance/choose-process?view=azure-devops&tabs=basic-process#basic-agile-scrum-and-cmmi)
 
 
-![img.png](/.attachments/CreateNewPrj.png)
+![img.png](/assets/CreateNewPrj.png)
+
 Once done select the 'Create' button
 
 
-#####[reference](https://docs.microsoft.com/en-us/azure/devops/organizations/projects/create-project?view=azure-devops&tabs=preview-page)
+#
+[reference](https://docs.microsoft.com/en-us/azure/devops/organizations/projects/create-project?view=azure-devops&tabs=preview-page)
