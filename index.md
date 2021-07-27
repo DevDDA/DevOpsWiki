@@ -7,4 +7,4 @@ The use of Azure DevOps Services is straight forward, in the creation of a proje
 This wiki hopes to provide some guidance we all should follow and will cover the following:
 
 - [Creating a project](/CreateProject.md)
-- [Team settings](/DevDDA-Azure-DevOps/Team-Settings)
+- [Team settings](/TeamSettings.md)
