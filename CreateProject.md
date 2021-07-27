@@ -1,3 +1,8 @@
+## Creating a team project
+</br>
+
+</hr>
+
 Choose the DevDDA organization, this may be the only one depending if you are member of other organizations.
 
 ![img.png](/assets/SelectOrg.png)
@@ -20,5 +25,6 @@ Once selected a side dialogue will appear. Enter the name of the project (requir
 Once done select the 'Create' button
 
 
-#
+</hr>
+
 [reference](https://docs.microsoft.com/en-us/azure/devops/organizations/projects/create-project?view=azure-devops&tabs=preview-page)
