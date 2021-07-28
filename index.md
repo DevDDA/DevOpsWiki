@@ -1,5 +1,5 @@
 ## Quick Wiki on how to use Azure DevOps in AST
-#
+___
 
 Azure DevOps Services is the current choice of version control for applications developed by the CDIO CSG AST. It provides all the tools and functionality required by this team currently in order to maintain a centralised collaborative cloud based environment, and is code language agnostic.
 
@@ -11,3 +11,4 @@ This wiki hopes to provide some guidance we all should follow and will cover the
 
 - [Creating a project](/CreateProject.md)
 - [Team settings](/TeamSettings.md)
+- [Branching](Branching.md)
