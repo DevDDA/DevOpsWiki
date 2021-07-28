@@ -12,3 +12,4 @@ This wiki hopes to provide some guidance we all should follow and will cover the
 - [Creating a project](/CreateProject.md)
 - [Team settings](/TeamSettings.md)
 - [Branching](Branching.md)
+- [Cloning](Cloning.md)
