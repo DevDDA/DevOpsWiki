@@ -8,6 +8,4 @@ ___
 
 <h1 align="center">I'm working on it!</h1>
 
-___
-
-- [Creating a project](/CreateProject.md) / [Team settings](/TeamSettings.md) / [Branching](Branching.md) / [Cloning](Cloning.md)
+- [Home](index.md) / [Creating a project](/CreateProject.md) / [Team settings](/TeamSettings.md) / [Branching](Branching.md) / [Cloning](Cloning.md)
