@@ -20,8 +20,7 @@ Once selected a side dialogue will appear. Enter the name of the project (requir
 ![img.png](/assets/CreateNewPrj.png)
 
 Once done select the 'Create' button
-
-
 ___
-- [Creating a project](/CreateProject.md) / [Team settings](/TeamSettings.md) / [Branching](Branching.md)  
+
+- [Home](index.md) / [Creating a project](/CreateProject.md) / [Team settings](/TeamSettings.md) / [Branching](Branching.md)  
 - [reference](https://docs.microsoft.com/en-us/azure/devops/organizations/projects/create-project?view=azure-devops&tabs=preview-page)
