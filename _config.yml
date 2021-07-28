@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: CDIO CSG AST DevOps
-favicon: favicon.ico
+github:
+  is_project_page: false
