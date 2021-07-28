@@ -26,5 +26,13 @@ Going back to the projects summary page will show that the membership has been u
 
 ![](/assets/SummaryMembers.png)
 
-#
-[reference](https://docs.microsoft.com/en-us/azure/devops/organizations/security/add-users-team-project?view=azure-devops&tabs=preview-page#add-users-or-groups-to-a-team)
+___
+
+___
+
+<br>
+
+___
+
+- [Creating a project](/CreateProject.md) / [Team settings](/TeamSettings.md) / [Branching](Branching.md) / [Cloning](Cloning.md)
+- [reference](https://docs.microsoft.com/en-us/azure/devops/organizations/security/add-users-team-project?view=azure-devops&tabs=preview-page#add-users-or-groups-to-a-team)
