@@ -1,6 +1,5 @@
 ## Team Settings
-___
-
+<br>
 By default the person who created the project becomes the project administrator. In order for complete support of the project you will need to add the rest of the development team to its team membership.
 
 Click on the 'Project settings' at the bottom of the left-hand menu
@@ -27,5 +26,5 @@ Going back to the projects summary page will show that the membership has been u
 
 ![](/assets/SummaryMembers.png)
 
-___
+#
 [reference](https://docs.microsoft.com/en-us/azure/devops/organizations/security/add-users-team-project?view=azure-devops&tabs=preview-page#add-users-or-groups-to-a-team)
