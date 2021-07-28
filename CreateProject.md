@@ -23,4 +23,5 @@ Once done select the 'Create' button
 
 
 ___
-[reference](https://docs.microsoft.com/en-us/azure/devops/organizations/projects/create-project?view=azure-devops&tabs=preview-page)
+- [Creating a project](/CreateProject.md) / [Team settings](/TeamSettings.md) / [Branching](Branching.md)  
+- [reference](https://docs.microsoft.com/en-us/azure/devops/organizations/projects/create-project?view=azure-devops&tabs=preview-page)
