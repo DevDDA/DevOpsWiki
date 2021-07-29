@@ -2,7 +2,7 @@
 
 ___
 
-<br>
+[Home](index.md) / [Creating a project](/CreateProject.md) / [Team settings](/TeamSettings.md) / [Branching](Branching.md) / [Cloning](Cloning.md)
 
 <img src="./assets/BusyCreating.jpg" align="center">
 
