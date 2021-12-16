@@ -7,9 +7,9 @@ It has many advantages over the old methods employed by development teams in the
 
 The use of Azure DevOps Services is straight forward, in the creation of a project, but has many processes that need to be understood and followed.
 
-This wiki hopes to provide some guidance we all should follow and will cover the following:
+This wiki hopes to provide some basic guidance we all should follow and will cover the following:
 
 - [Creating a project](/CreateProject.md)
 - [Team settings](/TeamSettings.md)
-- [Branching](Branching.md)
 - [Cloning](Cloning.md)
+- [Branching](Branching.md)
