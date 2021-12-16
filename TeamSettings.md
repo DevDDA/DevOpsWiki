@@ -1,7 +1,7 @@
 ## Team Settings
 <br>
 
-[Home](index.md) / [Creating a project](/CreateProject.md) / [Team settings](/TeamSettings.md) / [Branching](Branching.md) / [Cloning](Cloning.md)
+[Home](index.md) / [Creating a project](/CreateProject.md) / [Team settings](/TeamSettings.md) / [Cloning](Cloning.md) / [Branching](Branching.md)
 
 By default the person who created the project becomes the project administrator. In order for complete support of the project you will need to add the rest of the development team to its team membership.
 

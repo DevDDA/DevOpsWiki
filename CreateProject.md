@@ -5,7 +5,7 @@
 
 Choose the DevDDA organization, this may be the only one depending if you are member of other organizations.
 
-![img.png](/assets/SelectOrg.png)
+![img.png](/assets/SelectOrg2.png)
 
 Next select **New project**.
 
