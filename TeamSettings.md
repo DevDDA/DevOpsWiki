@@ -1,12 +1,12 @@
 ## Team Settings
 
-***
+___
 
 [Home](index.md) / [Creating a project](/CreateProject.md) / Team settings / [Cloning](Cloning.md) / [Branching](Branching.md)
 
 <br/>
 
-By default the person who created the project becomes the project administrator. In order for complete support of the project you will need to add the rest of the development team to its team membership. This is done by using the ***DevOps Developers*** group. There are a couple of ways to do this but this page will describe one.
+By default the person who created the project becomes the project administrator. In order for complete support of the project you will need to add the rest of the development team to its team membership. This is done by using the ___DevOps Developers___ group. There are a couple of ways to do this but this page will describe one.
 
 > You need to be in the project that you are setting the permissions for and also be the project administrator.
 
@@ -37,6 +37,6 @@ Going back to the projects summary page will show that the membership has been u
 
 [Next](Cloning.md)
 
-***
+___
 - [Home](index.md) / [Creating a project](/CreateProject.md) / Team settings / [Cloning](Cloning.md) / [Branching](Branching.md)
 - [reference](https://docs.microsoft.com/en-us/azure/devops/organizations/security/add-users-team-project?view=azure-devops&tabs=preview-page#add-users-or-groups-to-a-team)

@@ -1,6 +1,6 @@
 ## Creating a team project
 
-***
+___
 
 [Home](index.md) / Creating a project / [Team settings](/TeamSettings.md) / [Branching](Branching.md) / [Cloning](Cloning.md)
 
@@ -37,6 +37,6 @@ Once selected a side dialogue will appear. Enter the name of the project (requir
 
 Once done select the 'Create' button <p> [Next](Cloning.md) </p>
 
-***
+___
 - [Home](index.md) / Creating a project / [Team settings](/TeamSettings.md) / [Branching](Branching.md) / [Cloning](Cloning.md)
 - [reference](https://docs.microsoft.com/en-us/azure/devops/organizations/projects/create-project?view=azure-devops&tabs=preview-page)
