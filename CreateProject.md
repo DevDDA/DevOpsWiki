@@ -4,25 +4,25 @@
 
 [Home](index.md) / Creating a project / [Team settings](/TeamSettings.md) / [Branching](Branching.md) / [Cloning](Cloning.md)
 
-<br>
+<br/>
 
 Navigate to the [DevDDA](https://dev.azure.com/devdda/) site and, if you have multiple organisations, choose the DevDDA organization, this may be the only one depending if you are member of other organizations.
 
-<br>
+<br/>
 
 ![img.png](/assets/SelectOrg2.png)
 
-<br>
+<br/>
 
 Next select **New project** at the top-right.
 
-<br>
+<br/>
 
 ![img.png](/assets/NewProject.png)
 
 Once selected a side dialogue will appear. Enter the name of the project (required). Enter a brief description, even though this is optional, to give an indication to other team members as to the nature of the project.
 
-<br>
+<br/>
 
 > ### **Note:**
 >  - Always make sure that the Visibility of the project is set to 'Private' and that the 'Version control' is set to Git. Using Git allows for easier future migration to other platforms if required.
@@ -31,7 +31,7 @@ Once selected a side dialogue will appear. Enter the name of the project (requir
 > [Click here for further information regarding work item processes.](https://docs.microsoft.com/en-us/azure/devops/boards/work-items/guidance/choose-process?view=azure-devops&tabs=basic-process#basic-agile-scrum-and-cmmi)  
 >
 >
-<br>
+<br/>
 
 ![img.png](/assets/CreateNewPrj.png)
 
