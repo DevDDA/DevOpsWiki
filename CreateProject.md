@@ -1,5 +1,6 @@
 ## Creating a team project
-<br>
+
+***
 
 [Home](index.md) / Creating a project / [Team settings](/TeamSettings.md) / [Branching](Branching.md) / [Cloning](Cloning.md)
 

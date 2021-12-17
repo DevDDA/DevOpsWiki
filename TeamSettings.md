@@ -1,7 +1,10 @@
 ## Team Settings
-<br>
+
+***
 
 [Home](index.md) / [Creating a project](/CreateProject.md) / Team settings / [Cloning](Cloning.md) / [Branching](Branching.md)
+
+<br>
 
 By default the person who created the project becomes the project administrator. In order for complete support of the project you will need to add the rest of the development team to its team membership. This is done by using the ***DevOps Developers*** group. There are a couple of ways to do this but this page will describe one.
 

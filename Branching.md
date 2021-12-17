@@ -1,6 +1,6 @@
 ## Branching a team project
 
-___
+***
 
 [Home](index.md) / [Creating a project](/CreateProject.md) / [Team settings](/TeamSettings.md) / [Cloning](Cloning.md) / Branching
 
