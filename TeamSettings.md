@@ -1,7 +1,7 @@
 ## Team Settings
 <br>
 
-[Home](index.md) / [Creating a project](/CreateProject.md) / [Team settings](/TeamSettings.md) / [Cloning](Cloning.md) / [Branching](Branching.md)
+[Home](index.md) / [Creating a project](/CreateProject.md) / Team settings / [Cloning](Cloning.md) / [Branching](Branching.md)
 
 By default the person who created the project becomes the project administrator. In order for complete support of the project you will need to add the rest of the development team to its team membership. This is done by using the ***DevOps Developers*** group. There are a couple of ways to do this but this page will describe one.
 
@@ -31,13 +31,9 @@ Going back to the projects summary page will show that the membership has been u
 
 ![](/assets/SummaryMembers.png)
 
-___
 
-___
+[Next](Cloning.md)
 
-<br>
-
-___
-
-- [Home](index.md) / [Creating a project](/CreateProject.md) / Team settings / [Branching](Branching.md) / [Cloning](Cloning.md)
+***
+- [Home](index.md) / [Creating a project](/CreateProject.md) / Team settings / [Cloning](Cloning.md) / [Branching](Branching.md)
 - [reference](https://docs.microsoft.com/en-us/azure/devops/organizations/security/add-users-team-project?view=azure-devops&tabs=preview-page#add-users-or-groups-to-a-team)
